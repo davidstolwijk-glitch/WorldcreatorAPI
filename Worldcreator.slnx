@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TestWorldCreator/TestWorldCreator.csproj" Id="6f6f1f0c-45f5-4392-9a55-698bdba29045" />
+  <Project Path="Worldcreator/Worldcreator.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@Worldcreator_HostAddress = http://localhost:5125
+
+GET {{Worldcreator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
